@@ -47,17 +47,41 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+**Tabulation for Open Circuit Test and Load Test and output:**
 
-Tabulation for Load Test:
+![d8619676-0c83-470a-8b1f-2a42fdf41091](https://github.com/user-attachments/assets/4a70e37b-24a1-4599-87de-5d55cf5ff7e3)
 
-Model graph:
-Calculation: 
+![3aea1023-7ace-4416-994f-510b57cec947](https://github.com/user-attachments/assets/5fd72169-9e20-4770-8bb8-04a1234d7a71)
 
-Open circuit characteristics
+![d46f0e6c-a73a-48b3-b12c-2eabc944ffdf](https://github.com/user-attachments/assets/b83018d7-96ca-428e-8054-78f1509e179e)
 
-  
-Load Characteristics:
- 
+![61fb1de8-8bbc-467c-b73e-5ee1e892ce42](https://github.com/user-attachments/assets/90422970-47f3-471f-a23f-b41d3cb70143)
+
+![180ebbd2-abb1-4b4e-a5aa-fcc65fbd504d](https://github.com/user-attachments/assets/78ffda9a-f5a0-426d-98ba-560145779be2)
+
+
+
+
+![d46f0e6c-a73a-48b3-b12c-2eabc944ffdf](https://github.com/user-attachments/assets/4acca688-0eac-42fa-92a2-c4e2d29f1e2c)
+
+
+
+![180ebbd2-abb1-4b4e-a5aa-fcc65fbd504d](https://github.com/user-attachments/assets/9fe91a58-db71-4f94-90e5-72aadc4deea0)
+
+<img width="1075" height="624" alt="489233731-b0346d73-44a3-4dba-9b1f-d70301cac158" src="https://github.com/user-attachments/assets/8ed741fa-4493-411d-afe9-968c1b40f965" />
+
+<img width="1067" height="313" alt="489233744-96395d38-dc08-48f3-b571-a34078c545bc" src="https://github.com/user-attachments/assets/c2be963b-d9a9-4c68-a3ab-da4a466da895" />
+
+<img width="1370" height="626" alt="489233776-4395226d-7c9d-434a-9352-8df720a22892" src="https://github.com/user-attachments/assets/25262129-f9da-4e3a-ac00-1f13f33e5922" />
+
+<img width="1373" height="463" alt="489233789-40dd5e1a-f4f8-4517-9fd3-01d59f710850" src="https://github.com/user-attachments/assets/1ba2be81-cd33-4d97-8e87-0a9f69241fac" />
+
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
+
+
+
+
+
